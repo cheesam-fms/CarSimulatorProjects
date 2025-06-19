@@ -12,3 +12,4 @@ A beginner-friendly tutorial for creating a **Unity WheelCollider-based car cont
 - **Full Unity Project** – Complete and ready-to-run project provided via GitHub
 
 > Ideal for newcomers looking to explore Unity’s built-in vehicle physics with WheelColliders.
+![thumbnail](../resources/thumbnails/GameDevChef.jpg)
