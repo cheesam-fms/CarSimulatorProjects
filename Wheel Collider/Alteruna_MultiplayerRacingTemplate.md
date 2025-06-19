@@ -13,3 +13,5 @@ A lightweight and customizable **multiplayer racing game template** powered by t
 - Supports Unity 2020.3+ and Alteruna SDK 1.2.0+
 
 > Great starting point for building online racing experiences with Unity and Alteruna.
+
+![thumbnail](../resources/thumbnails/Alteruna.jpg)
