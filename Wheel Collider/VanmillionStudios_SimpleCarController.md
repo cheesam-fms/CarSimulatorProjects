@@ -16,4 +16,4 @@ A detailed tutorial series for building a **realistic car controller in Unity** 
 
 > A complete and modular car controller setup ideal for both learning and game prototyping.
 
-![thumbnail](resources/thumbnails/VanmillionStudios.jpg)
+![thumbnail](../resources/thumbnails/VanmillionStudios.jpg)
