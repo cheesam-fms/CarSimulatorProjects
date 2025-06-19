@@ -5,6 +5,10 @@ A demonstration of fully **custom car physics in Unity** inspired by the game *V
 ### 🔗 Reference
 - 🎥 [YouTube Demo](https://www.youtube.com/watch?v=CdPYlj5uZeI)
 
+- Other Interesting Video By Toyful Games
+- [Springs](https://www.youtube.com/watch?v=bFOAipGJGA0)
+- [Physics Based Character Controller](https://www.youtube.com/watch?v=qdskE8PJy6Q)
+
 ### ✨ Features
 - **Rigidbody + Raycast Setup** – Uses only a Rigidbody and four raycast-based suspension points
 - **Custom Suspension** – Spring force implementation to simulate realistic bounce and weight support
