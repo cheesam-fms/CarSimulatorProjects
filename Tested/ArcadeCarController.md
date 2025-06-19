@@ -1,4 +1,4 @@
-## 🔧 [AshDev]
+## 🔧 AshDev
 
 A step-by-step tutorial series for creating an **arcade-style car controller** in Unity. This tutorial focuses on a simple but responsive vehicle setup using physics-based movement, suspension mechanics, and visual/audio feedback.
 
