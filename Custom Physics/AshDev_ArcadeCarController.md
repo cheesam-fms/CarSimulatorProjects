@@ -14,3 +14,5 @@ A step-by-step tutorial series for creating an **arcade-style car controller** i
 - **Sound Effects** – Engine and skid sound integration
 
 > Great for beginners looking to implement fun and responsive car controls with visual flair.
+
+![thumbnail](../resources/thumbnails/AshDev.jpg)
