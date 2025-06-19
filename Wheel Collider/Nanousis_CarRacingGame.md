@@ -6,6 +6,10 @@ A full YouTube tutorial series that walks through building a complete **car raci
 - 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=gEwNHUDc8uE&list=PL0JXhw1odpJLTRBDdv4ybtYkuD1lEcF-N&index=1)
 - 💾 [GitHub – Final Project](https://github.com/Nanousis/NanousisCarController)
 
+### 🧱 Project Info
+- **Original Unity Version**: `6000.1.1f1`
+- **Project Type**: 3D, Built-in Render Pipeline
+
 ### ✨ Features
 - **WheelCollider Basics** – Motor power, brake power, slip angles, and steering curve setup
 - **Realistic Car Controller** – Gear shifting and RPM-based speed control
