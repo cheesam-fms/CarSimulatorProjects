@@ -8,7 +8,7 @@ A full YouTube tutorial series that walks through building a complete **car raci
 
 ### 🧱 Project Info
 - **Original Unity Version**: `6000.1.1f1`
-- **Project Type**: 3D, Built-in Render Pipeline
+- **Project Type**: 3D, Universal Render Pipeline(URP)
 
 ### ✨ Features
 - **WheelCollider Basics** – Motor power, brake power, slip angles, and steering curve setup
@@ -23,3 +23,9 @@ A full YouTube tutorial series that walks through building a complete **car raci
 > A fantastic end-to-end learning resource for building a mobile-ready, realistic car racing game in Unity.
 > 
 ![thumbnail](../resources/thumbnails/NanousisDevelopment.jpg)
+
+### 🧪 Test Feedback
+
+- **Controls feel smooth and responsive**, especially on mobile UI.
+- The car is tuned with a **drift-heavy behavior**, making it fun and responsive for arcade-style driving.
+- However, it **leans more toward drifting gameplay** and is **less suitable for city driving or realistic simulators** without extra tuning.
