@@ -4,8 +4,8 @@ A demonstration of fully **custom car physics in Unity** inspired by the game *V
 
 ### 🔗 Reference
 - 🎥 [YouTube Demo](https://www.youtube.com/watch?v=CdPYlj5uZeI)
-
-Other Interesting Video By Toyful Games
+---
+**Other Interesting Video By Toyful Games**
 - [Springs](https://www.youtube.com/watch?v=bFOAipGJGA0)
 - [Physics Based Character Controller](https://www.youtube.com/watch?v=qdskE8PJy6Q)
 
