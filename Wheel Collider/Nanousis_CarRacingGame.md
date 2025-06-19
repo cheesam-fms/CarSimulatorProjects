@@ -17,4 +17,5 @@ A full YouTube tutorial series that walks through building a complete **car raci
 - **Lap & Race System** – Full gameplay loop with lap tracking and AI competition
 
 > A fantastic end-to-end learning resource for building a mobile-ready, realistic car racing game in Unity.
+> 
 ![thumbnail](../resources/thumbnails/NanousisDevelopment.jpg)
