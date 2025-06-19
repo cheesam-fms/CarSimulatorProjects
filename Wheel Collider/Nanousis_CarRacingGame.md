@@ -29,3 +29,8 @@ A full YouTube tutorial series that walks through building a complete **car raci
 - **Controls feel smooth and responsive**, especially on mobile UI.
 - The car is tuned with a **drift-heavy behavior**, making it fun and responsive for arcade-style driving.
 - However, it **leans more toward drifting gameplay** and is **less suitable for city driving or realistic simulators** without extra tuning.
+
+### ⚠️ Compatibility Notes
+
+- **Unity 6.x versions are not fully compatible with Logitech G29** without deeper input system adjustments or workarounds.
+- If you're using a **steering wheel setup**, it's better to stick with older versions (like Unity 2021.3.8f1) used in earlier videos [Drifting Game](https://github.com/Nanousis/DriftingGame) in this playlist.
