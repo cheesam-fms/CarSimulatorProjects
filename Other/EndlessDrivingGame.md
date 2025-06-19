@@ -16,3 +16,5 @@ A complete YouTube tutorial series teaching you how to create an **endless drivi
 - **Obstacle Avoidance Gameplay** – Dodge traffic and avoid crashing to stay in the game
 
 > This is not a car simulator or racing game, but a casual **infinite runner** style driving game with a focus on fast iteration and fun gameplay.
+
+![thumbnail](../resources/thumbnails/PrettyFlyGames.jpg)
