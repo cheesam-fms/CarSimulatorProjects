@@ -6,6 +6,10 @@ A beginner-friendly tutorial for creating a **Unity WheelCollider-based car cont
 - 🎥 [YouTube Tutorial](https://www.youtube.com/watch?v=Z4HA8zJhGEk)  
 - 💾 [GitHub – Full Project](https://github.com/GameDevChef/CarController)
 
+### 🧱 Project Info
+- **Original Unity Version**: `2019.2.17f1`
+- **Project Type**: 3D, Built-in Render Pipeline
+
 ### ✨ Features
 - **WheelCollider Movement** – Uses `motorTorque` for acceleration and `brakeTorque` for braking
 - **Follow Camera** – Smooth, custom third-person camera system
