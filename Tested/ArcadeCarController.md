@@ -1,6 +1,9 @@
-## 🔧 [AshDev - YouTube Playlist Tutorial](https://www.youtube.com/watch?v=sWshRRDxdSU&list=PLtYhPiKW6dMUdJPfA1HH2HbPjp45PU9Tf&index=1)
+## 🔧 [AshDev]
 
 A step-by-step tutorial series for creating an **arcade-style car controller** in Unity. This tutorial focuses on a simple but responsive vehicle setup using physics-based movement, suspension mechanics, and visual/audio feedback.
+
+### 🔗 Reference
+- [YouTube Playlist](https://www.youtube.com/watch?v=sWshRRDxdSU&list=PLtYhPiKW6dMUdJPfA1HH2HbPjp45PU9Tf&index=1)
 
 ### Features
 - **Suspension System** – Realistic bounce and damping using wheel suspension
