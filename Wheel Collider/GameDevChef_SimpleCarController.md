@@ -14,3 +14,11 @@ A beginner-friendly tutorial for creating a **Unity WheelCollider-based car cont
 > Ideal for newcomers looking to explore Unity’s built-in vehicle physics with WheelColliders.
 
 ![thumbnail](../resources/thumbnails/GameDevChef.jpg)
+
+### 🧪 Test Feedback
+
+- Under heavy acceleration, attempting to turn the vehicle causes **uncontrollable sliding**.
+- The car behaves as if it's drifting unintentionally—losing grip and being difficult to stop.
+- This is likely due to **lack of forward friction or slip curve tuning** in the WheelCollider's `forwardFriction` and `sidewaysFriction`.
+
+> ⚠️ This issue is common in basic WheelCollider setups and may require tuning friction curves or applying a traction helper.
