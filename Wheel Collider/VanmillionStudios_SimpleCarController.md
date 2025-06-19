@@ -15,7 +15,3 @@ A detailed tutorial series for building a **realistic car controller in Unity** 
 - **Flexible Input Modes** – Supports both keyboard and on-screen button control
 
 > A complete and modular car controller setup ideal for both learning and game prototyping.
-
----
-
-**By Vanmillion Studios**
