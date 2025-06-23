@@ -13,6 +13,13 @@ The **Driving Force GT** is an older Logitech racing wheel, originally designed 
 - 🧰 **Unity Logitech SDK**  
   [Unity Asset Store – Logitech Gaming SDK](https://assetstore.unity.com/packages/tools/integration/logitech-gaming-sdk-6630#reviews)
 
+- ⚠️ **Not Compatible with G HUB**  
+  DFGT uses **Logitech Gaming Software (LGS)**, whereas newer wheels like **G29** and **G923** require **G HUB**.  
+  The links below are intended **only for newer devices**:
+
+  - 🛠️ [LogitechSteeringWheel.dll Fix (YouTube)](https://www.youtube.com/watch?v=2PGa0DV_a08)
+  - 🔬 [Official Logitech Developer Lab SDKs](https://www.logitechg.com/en-gb/innovation/developer-lab.html)
+
 ---
 
 ## 🎥 Testing & Gameplay Demos
